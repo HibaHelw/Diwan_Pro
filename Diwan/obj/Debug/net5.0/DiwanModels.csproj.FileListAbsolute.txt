@@ -1,0 +1,30 @@
+C:\Users\Heba\Documents\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.deps.json
+C:\Users\Heba\Documents\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.runtimeconfig.json
+C:\Users\Heba\Documents\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.runtimeconfig.dev.json
+C:\Users\Heba\Documents\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.dll
+C:\Users\Heba\Documents\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.pdb
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.csproj.AssemblyReference.cache
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.AssemblyInfoInputs.cache
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.AssemblyInfo.cs
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.dll
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\refint\DiwanModels.dll
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.pdb
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.genruntimeconfig.cache
+C:\Users\Heba\Documents\Diwan\Diwan\obj\Debug\net5.0\ref\DiwanModels.dll
+E:\Diwan Project\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.deps.json
+E:\Diwan Project\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.runtimeconfig.json
+E:\Diwan Project\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.runtimeconfig.dev.json
+E:\Diwan Project\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.dll
+E:\Diwan Project\Diwan\Diwan\bin\Debug\net5.0\DiwanModels.pdb
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.csproj.AssemblyReference.cache
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.AssemblyInfoInputs.cache
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.AssemblyInfo.cs
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.csproj.CoreCompileInputs.cache
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.dll
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\refint\DiwanModels.dll
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.pdb
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\DiwanModels.genruntimeconfig.cache
+E:\Diwan Project\Diwan\Diwan\obj\Debug\net5.0\ref\DiwanModels.dll
