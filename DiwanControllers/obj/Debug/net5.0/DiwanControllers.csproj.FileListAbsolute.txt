@@ -1,0 +1,30 @@
+C:\Users\Heba\Documents\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.deps.json
+C:\Users\Heba\Documents\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.dll
+C:\Users\Heba\Documents\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.pdb
+C:\Users\Heba\Documents\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanModels.dll
+C:\Users\Heba\Documents\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanModels.pdb
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.csproj.AssemblyReference.cache
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.AssemblyInfoInputs.cache
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.AssemblyInfo.cs
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanCon.452A9076.Up2Date
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.dll
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\refint\DiwanControllers.dll
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.pdb
+C:\Users\Heba\Documents\Diwan\DiwanControllers\obj\Debug\net5.0\ref\DiwanControllers.dll
+E:\Diwan Project\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.deps.json
+E:\Diwan Project\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.dll
+E:\Diwan Project\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanControllers.pdb
+E:\Diwan Project\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanModels.dll
+E:\Diwan Project\Diwan\DiwanControllers\bin\Debug\net5.0\DiwanModels.pdb
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.csproj.AssemblyReference.cache
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.AssemblyInfoInputs.cache
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.AssemblyInfo.cs
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.csproj.CoreCompileInputs.cache
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanCon.452A9076.Up2Date
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.dll
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\refint\DiwanControllers.dll
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\DiwanControllers.pdb
+E:\Diwan Project\Diwan\DiwanControllers\obj\Debug\net5.0\ref\DiwanControllers.dll
